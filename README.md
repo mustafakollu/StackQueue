@@ -1,1 +1,1 @@
-# StackQueue
+# StackQueue implementation with Java
